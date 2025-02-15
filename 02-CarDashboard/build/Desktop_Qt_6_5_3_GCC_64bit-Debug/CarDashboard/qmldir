@@ -1,0 +1,5 @@
+module CarDashboard
+typeinfo appCarDashboard.qmltypes
+prefer :/qt/qml/CarDashboard/
+Main 1.0 Main.qml
+

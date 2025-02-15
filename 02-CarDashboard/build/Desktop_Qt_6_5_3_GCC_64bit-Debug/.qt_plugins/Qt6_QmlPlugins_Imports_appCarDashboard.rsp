@@ -1,0 +1,14 @@
+-rootPath
+/home/ahmed/Intake45/QT6/Projects/CarDashboard
+-cmake-output
+-output-file
+/home/ahmed/Intake45/QT6/Projects/CarDashboard/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appCarDashboard.cmake
+-importPath
+/home/ahmed/Intake45/QT6/Projects/CarDashboard/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CarDashboard
+-importPath
+/home/ahmed/Intake45/QT6/Projects/CarDashboard/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/home/ahmed/Qt/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/ahmed/Intake45/QT6/Projects/CarDashboard/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_CarDashboard.qrc
+/home/ahmed/Intake45/QT6/Projects/CarDashboard/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/appCarDashboard_raw_qml_0.qrc

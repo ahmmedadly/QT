@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CarDashboard/">
+    <file alias="Main.qml">/home/ahmed/Intake45/QT6/Projects/CarDashboard/Main.qml</file>
+  </qresource>
+</RCC>
+
